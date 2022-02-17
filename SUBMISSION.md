@@ -17,7 +17,7 @@ The first argument is the Alt-text for the image. The second argument is the pat
 ![GitHub Actions successful build #6](images/5.jpg)
 - [5 pts] The section of the POM file showing the coordinates after you’ve commented them out.
 ![POM file commented coordinates #7](images/6.jpg)
-![Pushing pom file changes #8] ![7](https://user-images.githubusercontent.com/71361552/154576705-387d146a-328e-4eb5-b816-19fca0b2c698.png)
+![Pushing pom file changes #8] ![7](https://user-images.githubusercontent.com/71361552/154578591-1f0e2ea5-1e27-4eb9-a9ec-ce7a91a1c428.png)
 - [5 pts] Your GitHub Actions dashboard showing the unsuccessful build after the breaking change.
 ![GitHub Actions unsuccessful build #9]![8](https://user-images.githubusercontent.com/71361552/154577834-e437aea3-02ba-4743-89c1-704491125be8.png)
 - [5 pts] Your GitHub repository with the readme.md file selected showing the build failed status after the GitHub workflow fails.
